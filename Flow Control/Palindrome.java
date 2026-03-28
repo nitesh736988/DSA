@@ -1,4 +1,4 @@
-public class PrimeNumber {
+public class Palindrome {
     public static void main(String args[]) {
         int number = 121;
         int newNumber = number;
